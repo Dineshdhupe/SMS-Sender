@@ -29,5 +29,5 @@ Follow these steps to set up and run the application:
  **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Sid080802/SMS-Sender.git
+   https://github.com/Dineshdhupe/SMS-Sender/tree/main
 
